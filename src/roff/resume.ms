@@ -34,18 +34,13 @@ Education
 .B "TrueCoders - Birmingham, AL" "					"
 January 2018 - March 2018
 .br
-	C# & Java Development Program
+	C# & Java Development
 
 .B "Covalence - Birmingham, AL" "					"
 February 2017 - May 2017
 .br
-	Full Stack Web Development Program
+	Full Stack Web Development
 
-.\" .B "Jefferson State Community College - Birmingham, AL" "	"
-.\" January 2016 - August 2016
-.\" .br
-.\" 	General Studies
-.\"
 .B "The University of Alabama - Tuscaloosa, AL" "			"
 August 2013 - May 2015
 .br
@@ -61,8 +56,8 @@ Skills
 CSS (Sass),
 JavaScript,
 jQuery,
+Angular (JS/2+),
 React,
-Angular,
 Vue
 
 .B "Backend"
@@ -78,8 +73,7 @@ Phoenix Framework
 C#,
 Elixir,
 Go,
-JavaScript,
-TypeScript,
+JavaScript (TypeScript),
 Python,
 Ruby,
 Shell,
@@ -96,7 +90,8 @@ Links
 .LP
 GitHub -
 .UL https://github.com/dunstontc
-.br
+(or)
+.UL https://github.com/tcd
 
 .br
 LinkedIn -
