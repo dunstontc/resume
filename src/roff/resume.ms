@@ -65,7 +65,8 @@ Vue
 	Node.js,
 ASP.NET/.NET Core,
 Ruby on Rails,
-Phoenix Framework
+Phoenix Framework,
+Go
 
 .B "Languages"
 .br
@@ -73,15 +74,20 @@ Phoenix Framework
 C#,
 Elixir,
 Go,
-JavaScript (TypeScript),
+JavaScript,
 Python,
 Ruby,
 Shell,
 SQL
 
-.B "Cloud Architecture & Virtualization"
+.B "Other Skills"
 .br
-	AWS, Google Cloud Platform, Microsoft Azure, Docker, VMware
+	AWS,
+Docker,
+Git,
+Testing,
+Documentation,
+Unix/Linux Environments
 .RE
 
 .SH

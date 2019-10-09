@@ -1,1 +1,1 @@
-groff -ms -T pdf ./resume.ms > resume.pdf
+groff -ms -T pdf ./resume.ms > ../../build/roff/resume.pdf
